@@ -1,0 +1,3 @@
+[submodule "lab3/devops-todo"]
+	path = lab3/devops-todo
+	url = https://github.com/nitwof/devops-todo
